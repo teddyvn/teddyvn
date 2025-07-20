@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding (sure)
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 Reach me by [Linkedin](https://www.linkedin.com/in/ngphuoc/), or email: sales@nghelong.com
+- 📫 Reach me by [Linkedin](https://www.linkedin.com/in/ngphuoc/), or email: phuoc.h.nguyen@gmail.com
 
 <!---
 teddyvn/teddyvn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
